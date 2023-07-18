@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Neer-Pathak
-- 👀 I’m a Full Stack Developer
-- 🌱 Technologies that I have worked so far are: Django, Express, Angular, React, Node, Postgresql, mysql, Mongodb & flutter.
-- 📫 I keep practising questions on leetcode to improve my skills.
-- 📫 How to reach me ...notifyneer@gmail.com
-
+- 👀 I’m a Software Engineer
+- 🌱 Technologies that I have worked so far are: Springboot, Django & mysql.
+- 📫 Check out my repositories on springboot and django .
+- 📫 Feel free to reach out ...notifyneer@gmail.com
