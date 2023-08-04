@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neer-Pathak
 - 👀 I’m a Software Engineer
-- 🌱 Technologies that I have worked so far are: Springboot, Django & mysql.
-- 📫 Check out my repositories on springboot and django .
+- 🌱 Technologies that I have worked so far are: React, Django, Rails on Ruby, Spring Boot, MySql.
+- 📫 Check out my repositories on React, Rails on Ruby, Django, and Spring Boot .
 - 📫 Feel free to reach out ...notifyneer@gmail.com
