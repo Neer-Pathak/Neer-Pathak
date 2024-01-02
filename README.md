@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Neer-Pathak
 - 👀 I’m a Software Engineer
 - 🌱 Technologies that I have worked so far are: Django & Flutter
-- 📫 Check out my repositories just for fun not for professional purpose on React, Rails on Ruby, Django, and Spring Boot .
 - 📫 Feel free to reach out ...notifyneer@gmail.com
