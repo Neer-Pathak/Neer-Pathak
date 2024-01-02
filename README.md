@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Neer-Pathak
-- 👀 I’m a Software Engineer
-- 🌱 Technologies that I have worked so far are: Django & Flutter
-- 📫 Feel free to reach out ...notifyneer@gmail.com
